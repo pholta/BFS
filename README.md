@@ -1,5 +1,5 @@
 # BFS (Bread from the scratch)
-Based on my workshop durin http://openalt.cz/ conference
+Based on my workshop during http://openalt.cz/ conference
 
 Useful links:
 http://www.kvaskovychleb.cz/
