@@ -1,4 +1,4 @@
-# BFS (Bread from the scratch)
+# BFS (Bread from the scratch) AKA BaaS (bread as a service)
 Based on my workshop during http://openalt.cz/ conference
 
 Links (EN):
