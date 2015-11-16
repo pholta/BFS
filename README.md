@@ -1,6 +1,9 @@
 # BFS (Bread from the scratch) AKA BaaS (bread as a service)
 Based on my workshop during http://openalt.cz/ conference
 
+BFS - basic loaf recipe 
+http://i-pholta.rhcloud.com/?p=266
+
 Links (EN):
 http://sourdough.com/
 
