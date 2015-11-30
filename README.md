@@ -1,7 +1,7 @@
 # BFS (Bread from the scratch) AKA BaaS (bread as a service)
 Based on my workshop during http://openalt.cz/ conference
 
-<iframe width="800" height="600" src="http://www.superlectures.com/openalt2015/embed?id=44" frameborder="0" allowfullscreen></iframe>
+http://www.superlectures.com/openalt2015/open-sourcing-peceni-kvaskoveho-chleba-bfs-bread-from-the-scratch
 
 BFS - basic loaf recipe 
 http://i-pholta.rhcloud.com/?p=266
